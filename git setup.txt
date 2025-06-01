@@ -1,0 +1,30 @@
+creating git Repository
+
+
+download from git
+
+step 1 : for windows https://git-scm.com/downloads/win
+step 2 : extract the file
+step 3 : once dowloaded we need fix the path
+step 4 : this pc right click  >- properties >- advanced system settings >- advanced 
+                              >- Environment variables >- user variables >- path >- edit >- New >- give the path of git (C:\Program Files\Git\bin)
+                              >- ok
+step 5 : have to login in git using mail id and password
+step 6 : once created account click on profile icon >- your repositories >- new >- reposit name >- submit
+step 7 : open the intellij cmd 
+
+git init
+git status(checking the status)
+git add file name(single file)
+git add . (adding all file)
+git commit -m "first name"
+git remote add origin (link)
+git push -u origin main
+
+exesiting
+
+git add .
+git commit -m "message"
+git push
+
+
