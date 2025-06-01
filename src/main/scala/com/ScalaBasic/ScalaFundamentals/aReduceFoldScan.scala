@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 //reduce left, reduce right,fold left, fold right, scan left, scan right
 object aReduceFoldScan {
 

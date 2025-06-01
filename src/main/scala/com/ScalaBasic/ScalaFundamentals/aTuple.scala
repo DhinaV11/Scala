@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
    //the value cannot changed once declared
    // fixed size
    // it can be same data types or combination

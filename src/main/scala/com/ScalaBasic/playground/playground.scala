@@ -1,4 +1,4 @@
-package com.rockthejvm.playground
+package com.Scala.playground
 
 object playground {
   def main(args: Array[String]): Unit = {

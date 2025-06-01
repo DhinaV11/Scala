@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 // its container it will give 2 value
 // its will give (some or none ) if values are there means it will give SOME if not finding it will give NONE
 // in option we will handle using exception (getorelse) method

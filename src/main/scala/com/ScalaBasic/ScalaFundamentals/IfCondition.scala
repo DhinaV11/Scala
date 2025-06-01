@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 
 object IfCondition {
   def main(args: Array[String]): Unit = {

@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 /* A closure is a function which uses one or more variables
 declared outside this function.*/
  var number = 10

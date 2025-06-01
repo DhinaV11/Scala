@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 import Array._
   /* array is data structure store fixed size sequential element of same data type
   "same data type"

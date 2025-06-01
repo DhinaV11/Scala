@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 
 object Function {
   // def functionname ((argument):data type,(argument):data type) : data type { return X+Y:}

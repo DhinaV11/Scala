@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
  //arrays are mutable list are immutable we cannot change list value once decleared
 object aListExample {
    def main(args: Array[String]): Unit = {

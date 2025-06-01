@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 // set cannot contain duplicate value list mutable
 object aSetsDemo {
  val myset : Set[Int] = Set(7,8,5,6,3,2,3,3,22,22)

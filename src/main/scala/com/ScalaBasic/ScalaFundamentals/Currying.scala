@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 
   /*currying is the technique of transforming a function
   that takes multiple argument into a function

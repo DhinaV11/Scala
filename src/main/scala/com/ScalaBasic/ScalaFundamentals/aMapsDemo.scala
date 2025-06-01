@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 
 //in scala map is collection of key value pairs keys are unique in the map
 //not allowing duplicating value

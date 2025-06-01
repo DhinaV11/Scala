@@ -1,4 +1,4 @@
-package com.rockthejvm.part1
+package com.Scala.ScalaFundamentals
 
 object MatchExpression {
   def main(args: Array[String]): Unit = {
